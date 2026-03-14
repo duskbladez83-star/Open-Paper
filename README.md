@@ -83,3 +83,36 @@ You can get wallpapers in several ways:
 ### Option 1: Clone the Repository
 ```bash
 git clone https://github.com/duskbladez83-star/Open-Paper.git
+```
+
+### Option 2: Download as ZIP
+
+Download Latest Release
+
+### Option 3: Browse Online
+
+Visit the web preview (coming soon)
+🤝 Contributing
+
+We welcome contributions from everyone! Here's how you can help:
+🖼️ Add Your Wallpapers
+
+    Fork this repository
+
+    Add your wallpaper(s) to the appropriate category folder
+
+    Name your file descriptively: color-style-name.extension (e.g., blue-minimalist-mountain.jpg)
+
+    Submit a Pull Request
+
+📋 Contribution Guidelines
+
+   - ✅ Wallpapers should be clean and high-quality
+
+   - ✅ Minimum resolution: 1920x1080 (4K preferred)
+
+   - ✅ Include your original work or properly attributed works
+
+   - ✅ Keep file sizes reasonable (<5MB when possible)
+
+   - ❌ No explicit, offensive, or low-quality content
