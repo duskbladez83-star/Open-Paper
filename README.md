@@ -58,8 +58,6 @@ Open-Paper: A community-driven repository of minimalist and clean wallpapers. Fi
 
 ## 🖼️ Gallery
 
-> ⚠️ **Note**: This is a placeholder gallery. Replace with actual thumbnails from your collection.
-
 <div align="center">
   
 ### Featured Wallpapers
@@ -96,7 +94,8 @@ Download Latest Release
 ### Option 3: Browse Online
 
 Visit the web preview (coming soon)
-🤝 Contributing
+<br>
+Contributing
 
 We welcome contributions from everyone! Here's how you can help:
 🖼️ Add Your Wallpapers
