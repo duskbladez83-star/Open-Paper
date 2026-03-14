@@ -64,11 +64,11 @@ Open-Paper: A community-driven repository of minimalist and clean wallpapers. Fi
   
 ### Featured Wallpapers
 
-<img src=Demos/black-waves.jpg>
-<img src=Demos/gradient-change.jpg>
-<img src=Demos/pacman-colors.png>
-<img src=Demos/neon-green.jpg>
-<img src=Demos/black-stars.jpg>
+<img src=Demos/black-waves.jpg width="600">
+<img src=Demos/gradient-change.jpg width="600">
+<img src=Demos/pacman-colors.png width="600">
+<img src=Demos/neon-green.jpg width="600">
+<img src=Demos/black-stars.jpg width="600">
 
 [**View Full Gallery →**](./gallery)
 
