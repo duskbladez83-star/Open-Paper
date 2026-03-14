@@ -7,12 +7,11 @@ Open-Paper: A community-driven repository of minimalist and clean wallpapers. Fi
   
   ### *A curated collection of clean, open-source wallpapers*
   
-  [![License: CC0 1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-  [![GitHub stars](https://img.shields.io/github/stars/yourusername/Open-Paper?style=social)](https://github.com/yourusername/Open-Paper/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/yourusername/Open-Paper?style=social)](https://github.com/yourusername/Open-Paper/network/members)
+  [![GitHub stars](https://img.shields.io/github/stars/duskbladez83/Open-Paper?style=social)](https://github.com/yourusername/Open-Paper/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/duskbladez83/Open-Paper?style=social)](https://github.com/yourusername/Open-Paper/network/members)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
   
-  <img src="https://via.placeholder.com/800x400/1a1a1a/ffffff?text=Open-Paper+Showcase" alt="Open-Paper Banner" width="800"/>
+  <img src="https://placeholder.co/800x400/1a1a1a/ffffff?text=Open-Paper+Showcase" alt="Open-Paper Banner" width="800"/>
   
   [**Browse Wallpapers**](#-gallery) • 
   [**Categories**](#-categories) • 
