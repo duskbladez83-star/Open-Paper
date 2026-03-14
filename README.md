@@ -11,7 +11,7 @@ Open-Paper: A community-driven repository of minimalist and clean wallpapers. Fi
   [![GitHub forks](https://img.shields.io/github/forks/duskbladez83-star/Open-Paper?style=social)](https://github.com/duskbladez83-star/Open-Paper/network/members)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
   
-  <img src=demo.png/>
+  <img src=demo1.png/>
   
   [**Browse Wallpapers**](#-gallery) • 
   [**Categories**](#-categories) • 
