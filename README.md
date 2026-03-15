@@ -63,6 +63,8 @@ Open-Paper: A community-driven repository of minimalist and clean wallpapers. Fi
 ### Featured Wallpapers
 
 <img src=Demos/black-waves.jpg width="600">
+<img src=Demos/blue waves.jpg width="600">
+<img src=Demos/orange light.jpg width="600">
 <img src=Demos/blue-balcony.png width="600">
 <img src=Demos/blue-bridge.png width="600">
 <img src=Demos/blue-sky.png width="600">
@@ -128,3 +130,7 @@ Made with ❤️ for the open-source community
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </div>
+
+### Acknowledgements
+- Credits to binnewbs from some wallpapers
+- (*If there is any copyright issues please contact me ASAP!)
