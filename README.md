@@ -63,6 +63,7 @@ Open-Paper: A community-driven repository of minimalist and clean wallpapers. Fi
 ### Featured Wallpapers
 
 <img src=Demos/black-waves.jpg width="600">
+<img src=Demos/blue-waves.jpg width="600">
 <img src=Demos/orange-light.jpg width="600">
 <img src=Demos/blue-balcony.png width="600">
 <img src=Demos/blue-bridge.png width="600">
